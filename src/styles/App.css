@@ -223,6 +223,11 @@
   box-shadow: var(--shadow-xl);
 }
 
+.project-card-link {
+  color: inherit;
+  text-decoration: none;
+}
+
 .project-card-image {
   width: 100%;
   height: 200px;
